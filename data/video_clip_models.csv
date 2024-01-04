@@ -1,0 +1,4 @@
+model_name,year,month,title,arxiv,github,open_source,license
+CLIP4Clip,2021,4,CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval,2207.07285,ArrowLuo/CLIP4Clip,Y,https://github.com/ArrowLuo/CLIP4Clip/blob/master/LICENSE
+VideoCLIP,2021,9,VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding,2109.14084,facebookresearch/fairseq/tree/main/examples/MMPT,Y,https://github.com/facebookresearch/fairseq/tree/main/examples/MMPT#copyright
+X-CLIP,2022,7,X-CLIP: End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval,2207.07285,xuguohai/X-CLIP,Y,https://github.com/xuguohai/X-CLIP/blob/main/LICENSE

@@ -1,0 +1,8 @@
+model_name,year,month,title,pretraining_techniques,arxiv,github,open_source,license
+SLIP,2021,12,SLIP: Self-supervision meets Language-Image Pre-training,ISS,2112.12750,facebookresearch/SLIP,Y,https://github.com/facebookresearch/SLIP/blob/main/LICENSE
+FLAVA,2021,12,FLAVA: A Foundational Language And Vision Alignment Model,ITM+MMM+MIM+MLM,2112.04482,facebookresearch/multimodal/tree/main/examples/flava,Y,"https://huggingface.co/facebook/flava-full#:~:text=License%3A,bsd%2D3%2Dclause"
+BLIP,2022,1,BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation,ITM+LM,2201.12086,salesforce/BLIP,Y,https://github.com/salesforce/BLIP/blob/main/LICENSE.txt
+MaskCLIP,2022,8,MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining,MLM+MSD,2208.12262,LightDXY/MaskCLIP,N,
+ViCHA,2022,8,Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment,H-ITC+ITM+MMM+MIM+MLM,2208.13628,mshukor/ViCHA,Y,https://github.com/mshukor/ViCHA/blob/main/LICENSE
+RILS,2023,1,RILS: Masked Visual Reconstruction in Language Semantic Space,MIM,2301.06958,hustvl/RILS,N,
+MobileCLIP,2023,11,MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training,MMR,2311.17049,,N,

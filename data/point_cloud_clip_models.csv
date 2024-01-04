@@ -1,0 +1,5 @@
+model_name,year,month,modalities,title,arxiv,github,open_source,license
+PointCLIP,2021,12,point cloud + text,PointCLIP: Point Cloud Understanding by CLIP,2112.02413,ZrrSkywalker/PointCLIP,Y,
+CLIP2Point,2022,10,point cloud + text,CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training,2210.01055,tyhuang0428/CLIP2Point,Y,
+PointCLIPV2,2022,11,point cloud + text,PointCLIP V2: Prompting CLIP and GPT for Powerful 3D Open-world Learning,2211.11682,PointCLIP_V2,N,
+CLIP2,2023,3,point cloud + image + text,CLIP2: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data,2303.12417,,N,

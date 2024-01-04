@@ -1,0 +1,6 @@
+model_name,year,month,modalities,title,arxiv,github,open_source,license
+AudioCLIP,2021,6,audio+image+text,"AudioCLIP: Extending CLIP to Image, Text and Audio",2106.13043,AndreyGuzhov/AudioCLIP,Y,https://github.com/AndreyGuzhov/AudioCLIP/blob/master/LICENSE.md
+WAV2CLIP,2021,10,audio+image+text,WAV2CLIP: LEARNING ROBUST AUDIO REPRESENTATIONS FROM CLIP,2110.11499,descriptinc/lyrebird-wav2clip,Y,https://github.com/descriptinc/lyrebird-wav2clip/blob/master/LICENSE.md
+SpeechCLIP,2022,10,speech+image+text,SpeechCLIP: Integrating Speech with Pre-Trained Vision and Language Model,2210.00705,atosystem/SpeechCLIP,Y,https://github.com/atosystem/SpeechCLIP/blob/main/LICENSE
+CLAP,2023,4,audio+text,Large-Scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation,2211.06687,LAION-AI/CLAP,Y,https://github.com/LAION-AI/CLAP/blob/main/LICENSE
+CLVP,2023,5,speech+text,Better speech synthesis through scaling,2305.07243,neonbjb/tortoise-tts,Y,https://github.com/neonbjb/tortoise-tts/blob/main/LICENSE
