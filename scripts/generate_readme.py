@@ -66,7 +66,7 @@ def _get_model_card(entry):
     return model_card_entry
 
 def _get_openclip_integration(entry):
-    openclip_integration = entry["open_clip_integration"]
+    openclip_integration = (entry["open_clip_integration"]=="Y")
     open_clip_entry = "✔️" if openclip_integration else "❌"
     return open_clip_entry
 
