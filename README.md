@@ -55,7 +55,7 @@ All models in this table also use CLIP-style contrastive learning as a pretraini
 | MaskCLIP | 2022 | 8 | MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining | MLM+MSD | [![arXiv](https://img.shields.io/badge/arXiv-2208.12262-b31b1b.svg)](https://arxiv.org/abs/2208.12262) | [![GitHub](https://img.shields.io/github/stars/LightDXY/MaskCLIP?style=social)](https://github.com/LightDXY/MaskCLIP) | ❌ |  |
 | ViCHA | 2022 | 8 | Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment | H-ITC+ITM+MMM+MIM+MLM | [![arXiv](https://img.shields.io/badge/arXiv-2208.13628-b31b1b.svg)](https://arxiv.org/abs/2208.13628) | [![GitHub](https://img.shields.io/github/stars/mshukor/ViCHA?style=social)](https://github.com/mshukor/ViCHA) | ✔️ | [License](https://github.com/mshukor/ViCHA/blob/main/LICENSE) |
 | RILS | 2023 | 1 | RILS: Masked Visual Reconstruction in Language Semantic Space | MIM | [![arXiv](https://img.shields.io/badge/arXiv-2301.06958-b31b1b.svg)](https://arxiv.org/abs/2301.06958) | [![GitHub](https://img.shields.io/github/stars/hustvl/RILS?style=social)](https://github.com/hustvl/RILS) | ❌ |  |
-| MobileCLIP | 2023 | 11 | MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training | MMR | [![arXiv](https://img.shields.io/badge/arXiv-2311.17049-b31b1b.svg)](https://arxiv.org/abs/2311.17049) |  | ❌ |  |
+| MobileCLIP | 2023 | 11 | MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training | MMR | [![arXiv](https://img.shields.io/badge/arXiv-2311.17049-b31b1b.svg)](https://arxiv.org/abs/2311.17049) |  | ✔️ |  |
 <!--- CLIP_PLUS_TABLE -->
 
 
