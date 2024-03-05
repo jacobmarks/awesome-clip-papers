@@ -5,4 +5,4 @@ BLIP,2022,1,BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-L
 MaskCLIP,2022,8,MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining,MLM+MSD,2208.12262,LightDXY/MaskCLIP,N,
 ViCHA,2022,8,Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment,H-ITC+ITM+MMM+MIM+MLM,2208.13628,mshukor/ViCHA,Y,https://github.com/mshukor/ViCHA/blob/main/LICENSE
 RILS,2023,1,RILS: Masked Visual Reconstruction in Language Semantic Space,MIM,2301.06958,hustvl/RILS,N,
-MobileCLIP,2023,11,MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training,MMR,2311.17049,,Y,
+MobileCLIP,2023,11,MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training,MMR,2311.17049,,Y,https://github.com/apple/ml-mobileclip/blob/main/LICENSE
